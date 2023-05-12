@@ -1,0 +1,6 @@
+https://react-slick.neostack.com/
+https://www.framer.com/motion/scroll-animations/
+https://flickity.metafizzy.co/style.html
+https://alvarotrigo.com/react-fullpage/#page2
+https://swiperjs.com/react
+https://codesandbox.io/p/sandbox/drg1td?file=/src/App.jsx
